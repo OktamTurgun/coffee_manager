@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# OS fayllari
+.DS_Store
+Thumbs.db
+
+# Data fayllari (agar kerak bo‘lsa)
+data/*.json
